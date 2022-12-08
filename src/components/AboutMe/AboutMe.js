@@ -16,7 +16,7 @@ class AboutMe extends React.Component {
       <div className='background-me'>
         <div className='my-skills'>
           <h1>Full Stack Developer</h1>
-          <p>Hi, I'm Norbs and here you can find what languages and technologies I learnt for the past year.</p>
+          <p>Hi, I'm Norbs <br /> <br /> List of technologies I like</p>
         </div>
         <div className='skills-list'>
         {norbertcsipak.skills.map((skill) => {

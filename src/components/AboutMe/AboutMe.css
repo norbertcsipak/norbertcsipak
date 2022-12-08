@@ -1,9 +1,8 @@
 .background-me{
   width: auto;
-  height: 1024px;
-  background-image: url('./Images/IMG_7503.PNG');
+  height: 100vh;
+  background-image: url('./Images/IMG_7503.jpeg');
   background-repeat: no-repeat;
-  margin: 16px;
   background-position-x: center;
 }
 
@@ -11,6 +10,7 @@
   width: 370px;
   display: flex;
   justify-content: start;
+  align-items: start;
   flex-direction: column;
   flex-wrap: wrap;
   padding: 269px 269px 0 0;
@@ -26,4 +26,14 @@ img {
   justify-content: start;
   flex-wrap: wrap;
   width: 300px;
+  margin: 16px;
+}
+
+h1 {
+  font-family: Moserrat;
+  font-size: 42px;
+}
+
+p {
+  margin: 16px;
 }
