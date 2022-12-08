@@ -1,0 +1,29 @@
+.background-me{
+  width: auto;
+  height: 1024px;
+  background-image: url('./Images/IMG_7503.PNG');
+  background-repeat: no-repeat;
+  margin: 16px;
+  background-position-x: center;
+}
+
+.my-skills {
+  width: 370px;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 269px 269px 0 0;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+.skills-list {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  width: 300px;
+}
