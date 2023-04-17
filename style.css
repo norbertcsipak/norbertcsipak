@@ -69,5 +69,11 @@ a:hover {
 }
 .list-inline i {
   font-size: 50px;
-  color: #E8E8E8;
+  color: #B7B7B7;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7; /* Green */
 }
