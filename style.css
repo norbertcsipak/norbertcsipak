@@ -73,7 +73,11 @@ a:hover {
 }
 
 button {
-  background-color: white;
+  background-color: #F4F4F2;
   color: black;
-  border: 2px solid #e7e7e7; /* Green */
+  border: 1px solid #B7B7B7; /* Green */
+  border-radius: 8px;
+  width: 124px;
+  height: 40px;
+  opacity: 0.8;
 }
